@@ -5,6 +5,8 @@ A list of AI tools that are not strictly censoring in- and output.
 - **[PhotoVortex](https://www.photovortex.com)** - Powerful image generator that allows for some NSFW. Limited free trial available. Supports training custom models, videos.
 - **[PhotoAI](https://www.photoai.com)** - Well-known image generator that allows for some NSFW. No free tier / free trial.
 
+- **[LivePair AI](https://livepairai.com)** - Image and video generation across 80+ models; a private mode unlocks unrestricted generation. Pay-per-call (x402 USDC) or prepaid credits; agent APIs (MCP, OpenAPI) for builders.
+
 ## Unhinged PhotoVortex Plugins
 - **[AI Bukkake](https://www.ai-bukkake.com)** - Facial filter to bukkakify images. Works on girls and guys. Also comes with a free-form image generator, custom AI model trainer. Transparent pricing. Very nasty.
 - There are more coming soon, I finally figured how you can find them... 
